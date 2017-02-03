@@ -1,0 +1,29 @@
+{
+  "name": "nebula-ui-essentials",
+  "description": "Essential web components for web application user interfaces.",
+  "license": "ISC",
+  "authors": [
+    "Chris Beckett <chrisb@arsnebula.com>"
+  ],
+  "homepage": "https://github.com/arsnebula/nebula-ui-essentials#README",
+  "main": "nebula-ui-essentials.html",
+  "keywords": [
+    "web-components",
+    "polymer",
+    "element-collection"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test"
+  ],
+  "dependencies": {
+    "nebula-button": "arsnebula/nebula-button#*",
+    "nebula-checkbox": "arsnebula/nebula-checkbox#*",
+    "nebula-alert": "arsnebula/nebula-alert#*",
+    "nebula-loader": "arsnebula/nebula-loader#*",
+    "nebula-toast": "arsnebula/nebula-toast#*",
+    "nebula-progress": "arsnebula/nebula-progress#*"
+  }
+}
