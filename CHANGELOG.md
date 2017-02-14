@@ -1,5 +1,12 @@
 # Change Log
 
+## [v1.0.2](https://github.com/arsnebula/nebula-ui-essentials/releases/tag/v1.0.2) (2017-02-14)
+
+- Added sidebar layout.
+- Added appbar layout and appbar.
+- Added dialog.
+- Added inputbox.
+
 ## [v1.0.1](https://github.com/arsnebula/nebula-ui-essentials/releases/tag/v1.0.1) (2017-02-08)
 
 - Added radio and icon-button elements.

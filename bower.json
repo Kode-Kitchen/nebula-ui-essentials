@@ -27,6 +27,11 @@
     "nebula-alert": "arsnebula/nebula-alert#*",
     "nebula-loader": "arsnebula/nebula-loader#*",
     "nebula-toast": "arsnebula/nebula-toast#*",
-    "nebula-progress": "arsnebula/nebula-progress#*"
+    "nebula-progress": "arsnebula/nebula-progress#*",
+    "nebula-sidebar-layout": "arsnebula/nebula-sidebar-layout#^1.0.2",
+    "nebula-appbar-layout": "arsnebula/nebula-appbar-layout#^1.0.0",
+    "nebula-appbar": "arsnebula/nebula-appbar#^1.0.0",
+    "nebula-dialog": "arsnebula/nebula-dialog#^1.0.0",
+    "nebula-inputbox": "arsnebula/nebula-inputbox#^1.0.0"
   }
 }
