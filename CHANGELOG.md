@@ -1,5 +1,10 @@
 # Change Log
 
+## [v1.0.3](https://github.com/arsnebula/nebula-ui-essentials/releases/tag/v1.0.3) (2017-02-16)
+
+- Added toolbar.
+- Added splitview.
+
 ## [v1.0.2](https://github.com/arsnebula/nebula-ui-essentials/releases/tag/v1.0.2) (2017-02-14)
 
 - Added sidebar layout.
