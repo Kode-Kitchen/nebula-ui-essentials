@@ -34,6 +34,8 @@
     "nebula-dialog": "arsnebula/nebula-dialog#*",
     "nebula-inputbox": "arsnebula/nebula-inputbox#*",
     "nebula-splitview": "arsnebula/nebula-splitview#*",
-    "nebula-toolbar": "arsnebula/nebula-toolbar#*"
+    "nebula-toolbar": "arsnebula/nebula-toolbar#*",
+    "nebula-rating": "arsnebula/nebula-rating#*",
+    "nebula-switch": "arsnebula/nebula-switch#*"
   }
 }
