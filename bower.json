@@ -1,6 +1,6 @@
 {
   "name": "nebula-ui-essentials",
-  "description": "Essential web components for effective user interfaces.",
+  "description": "Essential web application user interface components.",
   "license": "ISC",
   "authors": [
     "Chris Beckett <chrisb@arsnebula.com>"
@@ -20,22 +20,23 @@
     "test"
   ],
   "dependencies": {
-    "nebula-button": "arsnebula/nebula-button#*",
-    "nebula-icon-button": "arsnebula/nebula-icon-button#*",
-    "nebula-checkbox": "arsnebula/nebula-checkbox#*",
-    "nebula-radio": "arsnebula/nebula-radio#*",
-    "nebula-alert": "arsnebula/nebula-alert#*",
-    "nebula-loader": "arsnebula/nebula-loader#*",
-    "nebula-toast": "arsnebula/nebula-toast#*",
-    "nebula-progress": "arsnebula/nebula-progress#*",
-    "nebula-sidebar-layout": "arsnebula/nebula-sidebar-layout#*",
-    "nebula-appbar-layout": "arsnebula/nebula-appbar-layout#*",
-    "nebula-appbar": "arsnebula/nebula-appbar#*",
-    "nebula-dialog": "arsnebula/nebula-dialog#*",
-    "nebula-inputbox": "arsnebula/nebula-inputbox#*",
-    "nebula-splitview": "arsnebula/nebula-splitview#*",
-    "nebula-toolbar": "arsnebula/nebula-toolbar#*",
-    "nebula-rating": "arsnebula/nebula-rating#*",
-    "nebula-switch": "arsnebula/nebula-switch#*"
+    "nebula-appbar": "arsnebula/nebula-appbar",
+    "nebula-appbar-layout": "arsnebula/nebula-appbar-layout",
+    "nebula-button": "arsnebula/nebula-button",
+    "nebula-checkbox": "arsnebula/nebula-checkbox",
+    "nebula-flexbox": "arsnebula/nebula-flexbox",
+    "nebula-icon-button": "arsnebula/nebula-icon-button",
+    "nebula-inputbox": "arsnebula/nebula-inputbox",
+    "nebula-progress": "arsnebula/nebula-progress",
+    "nebula-radio": "arsnebula/nebula-radio",
+    "nebula-rating": "arsnebula/nebula-rating",
+    "nebula-select": "arsnebula/nebula-select",
+    "nebula-sidebar-layout": "arsnebula/nebula-sidebar-layout",
+    "nebula-splitview": "arsnebula/nebula-splitview",
+    "nebula-switch": "arsnebula/nebula-switch",
+    "nebula-toolbar": "arsnebula/nebula-toolbar"
+  },
+  "resolutions": {
+    "nebula-focus-behavior": "^1.2.0"
   }
 }

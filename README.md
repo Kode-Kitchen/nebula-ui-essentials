@@ -2,4 +2,4 @@
 
 # nebula-ui-essentials
 
-Essential web components for web application user interfaces.
+Essential web application user interface components.

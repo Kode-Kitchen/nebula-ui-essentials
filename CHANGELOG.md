@@ -1,5 +1,11 @@
 # Change Log
 
+## [v1.0.5](https://github.com/arsnebula/nebula-ui-essentials/releases/tag/v1.0.5) (2017-03-06)
+
+- Remove dialog-related components to another collection.
+- Added the select component.
+- Added the flexbox style module.
+
 ## [v1.0.4](https://github.com/arsnebula/nebula-ui-essentials/releases/tag/v1.0.4) (2017-02-18)
 
 - Added rating and switch controls.
