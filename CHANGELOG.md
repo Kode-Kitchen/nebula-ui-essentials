@@ -1,5 +1,9 @@
 # Change Log
 
+## [v1.0.6](https://github.com/arsnebula/nebula-ui-essentials/releases/tag/v1.0.6) (2017-03-06)
+
+- Updated collection import file.
+
 ## [v1.0.5](https://github.com/arsnebula/nebula-ui-essentials/releases/tag/v1.0.5) (2017-03-06)
 
 - Remove dialog-related components to another collection.
