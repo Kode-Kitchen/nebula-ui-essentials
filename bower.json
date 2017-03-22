@@ -2,6 +2,7 @@
   "name": "nebula-ui-essentials",
   "description": "Essential web application user interface components.",
   "license": "ISC",
+  "private": true,
   "authors": [
     "Chris Beckett <chrisb@arsnebula.com>"
   ],
@@ -20,23 +21,22 @@
     "test"
   ],
   "dependencies": {
-    "nebula-appbar": "arsnebula/nebula-appbar",
-    "nebula-appbar-layout": "arsnebula/nebula-appbar-layout",
-    "nebula-button": "arsnebula/nebula-button",
-    "nebula-checkbox": "arsnebula/nebula-checkbox",
-    "nebula-flexbox": "arsnebula/nebula-flexbox",
-    "nebula-icon-button": "arsnebula/nebula-icon-button",
-    "nebula-inputbox": "arsnebula/nebula-inputbox",
-    "nebula-progress": "arsnebula/nebula-progress",
-    "nebula-radio": "arsnebula/nebula-radio",
-    "nebula-rating": "arsnebula/nebula-rating",
-    "nebula-select": "arsnebula/nebula-select",
-    "nebula-sidebar-layout": "arsnebula/nebula-sidebar-layout",
-    "nebula-splitview": "arsnebula/nebula-splitview",
-    "nebula-switch": "arsnebula/nebula-switch",
-    "nebula-toolbar": "arsnebula/nebula-toolbar"
-  },
-  "resolutions": {
-    "nebula-focus-behavior": "^1.2.0"
+    "nebula-appbar": "arsnebula/nebula-appbar#v2-preview",
+    "nebula-appbar-layout": "arsnebula/nebula-appbar-layout#v2-preview",
+    "nebula-button": "arsnebula/nebula-button#v2-preview",
+    "nebula-checkbox": "arsnebula/nebula-checkbox#v2-preview",
+    "nebula-flexbox": "arsnebula/nebula-flexbox#v2-preview",
+    "nebula-icons": "arsnebula/nebula-icons#v2-preview",
+    "nebula-icon-button": "arsnebula/nebula-icon-button#v2-preview",
+    "nebula-inputbox": "arsnebula/nebula-inputbox#v2-preview",
+    "nebula-label": "arsnebula/nebula-label#v2-preview",
+    "nebula-progress": "arsnebula/nebula-progress#v2-preview",
+    "nebula-radio": "arsnebula/nebula-radio#v2-preview",
+    "nebula-rating": "arsnebula/nebula-rating#v2-preview",
+    "nebula-select": "arsnebula/nebula-select#v2-preview",
+    "nebula-sidebar-layout": "arsnebula/nebula-sidebar-layout#v2-preview",
+    "nebula-splitview": "arsnebula/nebula-splitview#v2-preview",
+    "nebula-switch": "arsnebula/nebula-switch#v2-preview",
+    "nebula-toolbar": "arsnebula/nebula-toolbar#v2-preview"
   }
 }

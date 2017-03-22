@@ -1,5 +1,9 @@
 # Change Log
 
+## [v2.0.0](https://github.com/arsnebula/nebula-ui-essentials/releases/tag/v2.0.0) (PENDING)
+
+- Upgraded to Polymer v2 ES12015 class-style elements and mixins.
+
 ## [v1.0.6](https://github.com/arsnebula/nebula-ui-essentials/releases/tag/v1.0.6) (2017-03-06)
 
 - Updated collection import file.
