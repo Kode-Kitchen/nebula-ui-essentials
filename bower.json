@@ -20,20 +20,22 @@
     "test"
   ],
   "dependencies": {
-    "nebula-appbar": "arsnebula/nebula-appbar#^1.0.0",
-    "nebula-appbar-layout": "arsnebula/nebula-appbar-layout#^1.0.0",
-    "nebula-button": "arsnebula/nebula-button#^1.0.0",
-    "nebula-checkbox": "arsnebula/nebula-checkbox#^1.0.0",
-    "nebula-flexbox": "arsnebula/nebula-flexbox#^1.0.0",
-    "nebula-icon-button": "arsnebula/nebula-icon-button#^1.0.0",
-    "nebula-inputbox": "arsnebula/nebula-inputbox#^1.0.0",
-    "nebula-progress": "arsnebula/nebula-progress#^1.0.0",
-    "nebula-radio": "arsnebula/nebula-radio#^1.0.0",
-    "nebula-rating": "arsnebula/nebula-rating#^1.0.0",
-    "nebula-select": "arsnebula/nebula-select#^1.0.0",
-    "nebula-sidebar-layout": "arsnebula/nebula-sidebar-layout#^1.0.0",
-    "nebula-splitview": "arsnebula/nebula-splitview#^1.0.0",
-    "nebula-switch": "arsnebula/nebula-switch#^1.0.0",
-    "nebula-toolbar": "arsnebula/nebula-toolbar#^1.0.0"
+    "nebula-appbar": "arsnebula/nebula-appbar#^2.0.0",
+    "nebula-appbar-layout": "arsnebula/nebula-appbar-layout#^2.0.0",
+    "nebula-button": "arsnebula/nebula-button#^2.0.0",
+    "nebula-checkbox": "arsnebula/nebula-checkbox#^2.0.0",
+    "nebula-flexbox": "arsnebula/nebula-flexbox#^2.0.0",
+    "nebula-icon-button": "arsnebula/nebula-icon-button#^2.0.0",
+    "nebula-icons": "arsnebula/nebula-icons#^2.0.0",
+    "nebula-inputbox": "arsnebula/nebula-inputbox#^2.0.0",
+    "nebula-label": "arsnebula/nebula-label#^2.0.0",
+    "nebula-media-query": "arsnebula/nebula-media-query#^2.0.0",
+    "nebula-progress": "arsnebula/nebula-progress#^2.0.0",
+    "nebula-radio": "arsnebula/nebula-radio#^2.0.0",
+    "nebula-rating": "arsnebula/nebula-rating#^2.0.0",
+    "nebula-select": "arsnebula/nebula-select#^2.0.0",
+    "nebula-sidebar-layout": "arsnebula/nebula-sidebar-layout#^2.0.0",
+    "nebula-switch": "arsnebula/nebula-switch#^2.0.0",
+    "nebula-toolbar": "arsnebula/nebula-toolbar#^2.0.0"
   }
 }

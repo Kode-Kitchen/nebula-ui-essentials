@@ -1,5 +1,9 @@
 # Change Log
 
+## [v2.0.0](https://github.com/arsnebula/nebula-ui-essentials/releases/tag/v2.0.0) (2017-04-21)
+
+- Updated dependencies to v2 elements.
+
 ## [v1.0.7](https://github.com/arsnebula/nebula-ui-essentials/releases/tag/v1.0.7) (2017-04-21)
 
 - Updated dependencies to target semver v1.x.x components.
